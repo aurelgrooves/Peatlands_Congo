@@ -1,6 +1,5 @@
 ![banner](/images/banner.png)
-# Peatlands_Congo
-scripts for monitoring peatlands in the Congo Basin
+# Monitoring Peatlands in the Congo Basin
 
 The following approaches are presented:
 1. Combining existing real-time and archive forest alert data 
