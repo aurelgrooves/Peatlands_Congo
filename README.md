@@ -9,9 +9,11 @@ For more information and learning materials you can join the [Google Classroom](
 
 the following presentations (in French) provide guidelines for implementation.
 
+[Large-scale peatland monitoring with SEPAL](https://docs.google.com/presentation/d/1reiuu8DMUbCgmnjYEL3LZseE6CKK_KlsPgjAcqabNoU/edit?usp=sharing)
+
 [Introduction to Jupyter notebooks in SEPAL](https://docs.google.com/presentation/d/1ZXlAHDF-89mQX9zkJq09ogXDvxmmFLq5R1O-1OQ7wWI/edit?usp=sharing)
 
-[Large-scale peatland monitoring with SEPAL](https://docs.google.com/presentation/d/1reiuu8DMUbCgmnjYEL3LZseE6CKK_KlsPgjAcqabNoU/edit?usp=sharing)
+[Fire monitoring in Congo peatlands with SEPAL](https://docs.google.com/presentation/d/1CUzt2umnMsu9Q3io6RzF-RqHcJc0UhJ8Y2oe5VYGbM4/edit?usp=sharing)
 
 [Analysis and visualization of fire data with Google Looker Studio](https://docs.google.com/presentation/d/17eCp-U38J4nhuhRryrI72EW1-g4HfdGGbBc8xSIcBBw/edit?usp=sharing)
 
